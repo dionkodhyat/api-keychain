@@ -26,4 +26,3 @@ Open the zip file and click the unzipped `noise-digital` file. Then proceed to c
 
 This should run the server and establish a connection to the databse. The default port is <u>9001</u>.  You can use software such as Postman to test the API calls in the back-end, or use the user interface client.
 
-### Closing Thoughts
