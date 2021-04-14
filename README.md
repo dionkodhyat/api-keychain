@@ -27,5 +27,3 @@ Open the zip file and click the unzipped `noise-digital` file. Then proceed to c
 This should run the server and establish a connection to the databse. The default port is <u>9001</u>.  You can use software such as Postman to test the API calls in the back-end, or use the user interface client.
 
 ### Closing Thoughts
-
-This was a very fun API to work on although it was challenging because I have not worked with MongoDB in the past. Thankfully, the documentation for MongoDB and Mongoose *(the NPM package used to connect and manipulate Mongo)* were very informative resourceful. I wanted to work with MongoDB because it was one of the most popular NoSQL database and I wanted to learn and challenge myself creatively. Overall this was a fun project to experiment it on.
